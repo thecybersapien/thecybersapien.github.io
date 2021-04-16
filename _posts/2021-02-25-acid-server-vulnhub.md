@@ -3,6 +3,7 @@ layout: post
 title: 'ACID: SERVER (Vulnhub CTF Walkthrough)'
 tags: [Vulnhub, CTF]
 color: red
+permalink: acid-server-vulnhub
 author: shivamsaraswat
 excerpt_separator: <!--more-->
 ---

@@ -4,6 +4,7 @@ title: Netmon (Metasploit + Manual Exploitation)
 # hide_title: true
 tags: [HTB, Powershell, FTP]
 color: blue                 #rgb(165,42,42)
+permalink: netmon-htb
 author: shivamsaraswat
 # feature-img: "assets/img/feature-img/circuit.jpeg"
 # thumbnail: "assets/img/thumbnails/feature-img/circuit.jpeg"
