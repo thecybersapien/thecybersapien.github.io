@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://thecybersapien.github.io"
+url: "https://cybersapien.tech"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Cybersapien's Blog                                    # site's title
@@ -9,7 +9,7 @@ avatar: assets/img/everything.png                         # Empty for no avatar 
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_text: Cybersapien's Blog  # Change Blog header text
 header_feature_image: assets/img/pexels/header.jpg
 footer_text: >
   Cybersapien's Blog © 2021
