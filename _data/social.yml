@@ -1,16 +1,16 @@
 # Icons on the footer
 rss: true
-email_address:    # Full email address, e.g. "sam@example.com"
+email_address:    thecybersapien@protonmail.com"
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
 gitlab:
-github: "sylhare"
-instagram:
+github: "shivamsaraswat"
+instagram:  "cyber.sapien"
 keybase:
-linkedin:         # Full URL
+linkedin: https://www.linkedin.com/in/shivamsaraswat/
 pinterest:
 reddit:
 soundcloud:
@@ -18,7 +18,7 @@ stack_overflow:
 stack_exchange:   # Full URL
 steam:
 tumblr:
-twitter:          # "twitter username"
+twitter: "thecybersapien"
 vimeo:
 wordpress:
 youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
@@ -35,6 +35,6 @@ share:
   pinterest:
   pocket: true
   reddit: true
-  linkedin:
+  linkedin: true
   wordpress:
   email: true

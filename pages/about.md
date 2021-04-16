@@ -2,13 +2,16 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
-tags: [About, Archive]
+feature-img: "assets/img/keys.jpg"
+tags: [About]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+I am a Cybersecurity College Student. I mostly like to solve machines on TryHackMe and HackTheBox and I sometimes participate in capture the flag competitions. Here I am writing these writeups as my hobby. I hope you like them. Besides these, I like to read books.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+I know some Python, C, C++ and I am currently preparing for my CEH Practical and OSCP.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+You can [Contact Me](/contact/) for any questions, feedback and suggestions for the blog page!
+
+[<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="cybersapien" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>](https://www.buymeacoffee.com/cybersapien)
+
+You can [Buy Me A Coffee](https://www.buymeacoffee.com/cybersapien) if you like my blog and would like to support! I’d be grateful for all the support and it’ll keep me motivated to continue creating content.
