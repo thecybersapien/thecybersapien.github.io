@@ -8,7 +8,7 @@ tags: [About]
 
 I am a Cybersecurity College Student. I mostly like to solve machines on TryHackMe and HackTheBox and I sometimes participate in capture the flag competitions. Here I am writing these writeups as my hobby. I hope you like them. Besides these, I like to read books.
 
-I know some Python, C, C++ and I am currently preparing for my CEH Practical and OSCP.
+I know some Python, C, C++ and I have also done CEH Practical and currently preparing for my OSCP.
 
 You can [Contact Me](/contact/) for any questions, feedback and suggestions for the blog page!
 
