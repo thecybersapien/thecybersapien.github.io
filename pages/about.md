@@ -6,9 +6,9 @@ feature-img: "assets/img/keys.jpg"
 tags: [About]
 ---
 
-I am a Cybersecurity College Student. I mostly like to solve machines on TryHackMe and HackTheBox and I sometimes participate in capture the flag competitions. Here I am writing these writeups as my hobby. I hope you like them. Besides these, I like to read books.
+I am a Cybersecurity College Student. I mostly like to solve machines on TryHackMe and HackTheBox and I also participate in capture the flag competitions. Here I am writing these writeups as my hobby. I hope you like them. Besides these, I like to read books.
 
-I know some Python, C, C++ and I have also done CEH Practical and currently preparing for my OSCP.
+I know some Python, C, and I have a Certified Ethical Hacker (Practical).
 
 You can [Contact Me](/contact/) for any questions, feedback and suggestions for the blog page!
 
