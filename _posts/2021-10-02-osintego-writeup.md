@@ -8,8 +8,6 @@ author: shivamsaraswat
 excerpt_separator: <!--more-->
 ---
 
-<!-- <center><img src="/assets/img/feature-img/vulnhub.png" alt="Machine Information"></center> -->
-<br>
 **Challenge Category: OSINT**
 
 **Challenge:**
@@ -28,31 +26,26 @@ The author is a professional person and has a medium to run his own blog. He lik
 
 ## Overview
 
-This challenge includes OSINT and Steganography, that’s why its name is **OSINTEGO**.<br>
-I created this challenge as part of DC9111 2021 CTF.
+* I created this challenge as part of DC9111 2021 CTF.
+* This challenge includes OSINT and Steganography, that’s why its name is **OSINTEGO**.
+* Open Source INTelligence (OSINT) is the practice of collecting information from publicly available sources.
+* Whitespace Steganography has been used here to hide the flag. A whitespace character does not correspond to a visible mark, but typically does occupy an area on a page. Read more about Whitespace character [here](https://en.wikipedia.org/wiki/Whitespace_character).
 
 <hr>
 
-<!-- ## Strategy to Solve
-
-- Network Scanning (arp-scan, Nmap)
-- Take root access and capture the flag -->
-
-<!-- <hr> -->
-
 ## How to Solve 
 
-1). "*Professional*" means a professional platform which means LinkedIn and author name is given in the challenge, so go to LinkedIn of author - **[https://www.linkedin.com/in/cybersapien/](https://www.linkedin.com/in/cybersapien/)**
+1). *"Professional"* means a professional platform which means LinkedIn and author name is given in the challenge, so go to LinkedIn of author - **[https://www.linkedin.com/in/cybersapien/](https://www.linkedin.com/in/cybersapien/)**
 
 2). We can see 3 blogs links in the featured section.
 <center><img src="/assets/img/ctf/dc9111-2021/featured-section.png" alt="Featured Section"></center>
 
-3). "*own blog*" means blog hosted on own domain, so go to **[cybersapien.tech](https://cybersapien.tech/)**.
+3). *"own blog"* means blog hosted on own domain, so go to **[cybersapien.tech](https://cybersapien.tech/)**.
 
 4). See the source code of the web page. 
-<center><img src="/assets/img/ctf/dc9111-2021/source-code.png" alt="Featured Section"></center>
 
-5). "*white colour*" means White Space Steganography. Select all the text and we can see a weird thing that a long blank line selected as a text.
+5). *"white colour"* means White Space Steganography. Select all the text and we can see a weird thing that a long blank line selected as a text. 
+<center><img src="/assets/img/ctf/dc9111-2021/source-code.png" alt="Featured Section"></center>
 
 6). Copy this line, and paste it in Sublime Text or VS code editor.
 
@@ -80,7 +73,7 @@ This confirms that we have successfully completed the challenge.
 
 <hr>
 
-**I hope, this post helped you to solve this CTF easily and you must have learned something new.**
+**I hope, this post helped you to solve this CTF challenge easily and you must have learned something new.**
 
 **Feel free to [contact me](/contact/) for any suggestions and feedbacks. I would really appreciate those.**
 
