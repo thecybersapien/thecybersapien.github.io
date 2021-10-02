@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OSINTEGO - DEF CON Delhi Group | DC9111 2021 CTF'
+title: 'OSINTEGO - DEF CON Delhi Group | DC9111 CTF 2021'
 tags: [DC9111, DEF CON, CTF]
 color: rgb(50,180,50)
 permalink: osintego-writeup/
