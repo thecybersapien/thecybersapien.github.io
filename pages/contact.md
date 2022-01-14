@@ -12,4 +12,4 @@ Hey! If you wish to connect with me, feel free to reach me via any of the below 
 - **Instagram** - [@cyber.sapien](https://www.instagram.com/cyber.sapien/)
 - **LinkedIn** - [@shivamsaraswat](https://www.linkedin.com/in/shivamsaraswat/)
 - **Discord** - cybersapien#8988
-- **Email** - thecybersapien@protonmail.com
+- **Email** - cs@cybersapien.tech
