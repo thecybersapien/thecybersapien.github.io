@@ -6,9 +6,13 @@ feature-img: "assets/img/keys.jpg"
 tags: [About]
 ---
 
-I am a Cybersecurity College Student. I mostly like to solve machines on TryHackMe and HackTheBox and I also participate in capture the flag competitions. Here I am writing these writeups as my hobby. I hope you like them. Besides these, I like to read books.
+I am a Cybersecurity Enthusiast. I like to solve coding problems using Python. 
 
-I know some Python, C, and I am a Certified Ethical Hacker (Practical).
+I know some Python and C, and I am also a [Certified Ethical Hacker (Practical)](https://drive.google.com/file/d/1BNm0BA837_kds7ITUTGTjpvIyeq5j93R/view).
+
+I work for a company ([BreachLock](https://www.breachlock.com/)) which provides Penetration Testing as a Service (PTaaS). I work as a Associate Security Automation Engineer in my company where I am part of Scanner (RATA) Team in which I write code for our automated scanner for Web Penetration Testing.
+
+I also like to solve machines on TryHackMe and HackTheBox, and I also participate and create challenges in capture the flag (CTF) competitions. Here I am writing these writeups as my hobby. I hope you like them. Besides these, I like to read books.
 
 You can [Contact Me](/contact/) for any questions, feedback and suggestions for the blog page!
 
