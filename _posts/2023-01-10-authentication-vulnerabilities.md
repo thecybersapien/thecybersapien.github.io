@@ -88,7 +88,7 @@ Now the main question of this post -
 
 ### Testing for Password-Based Login
 
-* Test for Default Credentials because many web applications and hardware devices have default passwords for the built-in administrative account.
+* Test for Default Credentials because many web applications and hardware devices have default passwords for the built-in administrative account. Determine whether the application has any user accounts with default passwords and check if new user accounts are created with weak or predictable passwords.
 * Never directly jump to brute-forcing usernames and passwords.
 * First, enumerate (brute-force) the valid usernames, then use those to find the valid password.
 * This greatly reduces the time and effort required to brute-force a login because the attacker is able to quickly generate a shortlist of valid usernames.
