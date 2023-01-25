@@ -4,7 +4,7 @@ url: "https://cybersapien.tech"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Cybersapien's Blog                                    # site's title
-description: "HTB, TryHackMe writeups, and other security-related stuff."      # used by search engines
+description: "Cybersecurity Insights and Research"      # used by search engines
 avatar: assets/img/everything.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
