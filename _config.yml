@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://cybersapien.tech/blog"
+url: "https://cybersapien.tech/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Cybersapien's Blog                                    # site's title
